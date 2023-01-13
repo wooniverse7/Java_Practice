@@ -1,4 +1,4 @@
-package ObjAdv.Polymorphism;
+package Section1.ObjAdv.Polymorphism;
 
 //참조변수의 다형성 예시
 

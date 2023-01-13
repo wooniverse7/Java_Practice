@@ -1,4 +1,4 @@
-package Collection.Test;
+package Section1.Collection.Test;
 
 import java.util.ArrayList;
 

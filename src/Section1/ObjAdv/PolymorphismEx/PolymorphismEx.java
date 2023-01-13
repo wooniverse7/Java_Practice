@@ -1,4 +1,4 @@
-package ObjAdv.PolymorphismEx;
+package Section1.ObjAdv.PolymorphismEx;
 
 public class PolymorphismEx {
     public static void main(String[] args) {
